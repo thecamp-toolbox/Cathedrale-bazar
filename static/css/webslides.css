@@ -3025,8 +3025,6 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
     margin: .5cm;
     size: A4 landscape; }
   * {
-    background: transparent !important;
-    color: #000 !important;
     -webkit-filter: none !important;
             filter: none !important;
     text-shadow: none !important; }
